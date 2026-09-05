@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Machine-local config and model (re-downloaded by setup.sh)
+config.json
+models/*.task
+
+# Local agent/tool settings
+.claude/
+
+# Editor / OS junk
+.vscode/
+.idea/
+.DS_Store
+*.log

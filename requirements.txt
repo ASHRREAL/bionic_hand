@@ -1,0 +1,6 @@
+opencv-python>=4.9,<5
+mediapipe>=0.10.14
+customtkinter>=5.2.2
+pyserial>=3.5
+numpy>=1.26,<3
+Pillow>=10.0
